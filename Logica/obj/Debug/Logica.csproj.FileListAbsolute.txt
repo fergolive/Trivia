@@ -1,0 +1,9 @@
+D:\Compartir\Trabajos\TriviaProyecto\Logica\bin\Debug\Logica.dll
+D:\Compartir\Trabajos\TriviaProyecto\Logica\bin\Debug\Logica.pdb
+D:\Compartir\Trabajos\TriviaProyecto\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\TriviaProyecto\Logica\bin\Debug\Presistencia.dll
+D:\Compartir\Trabajos\TriviaProyecto\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\TriviaProyecto\Logica\bin\Debug\Presistencia.pdb
+D:\Compartir\Trabajos\TriviaProyecto\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\TriviaProyecto\Logica\obj\Debug\Logica.dll
+D:\Compartir\Trabajos\TriviaProyecto\Logica\obj\Debug\Logica.pdb
